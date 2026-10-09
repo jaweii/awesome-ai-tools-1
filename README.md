@@ -36,6 +36,7 @@ A curated list of powerful AI tools for developers, creators, designers, entrepr
 - Adobe Firefly
 - Figma AI
 - Microsoft Designer
+- [PhoText](https://photext.ai) – click-to-edit text in images/screenshots right in the browser; free, no install.
 
 ## 📊 Productivity
 - Notion AI
